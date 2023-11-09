@@ -16,41 +16,49 @@ After it has loaded go back to the 'ToDo-backend' directory in command prompt or
 This is where you can acess the app.
 
 ## Usage
-![add new item](https://github.com/Godi28/test/assets/88197915/2474d085-5f2c-40a8-9bc4-b17ed4ad4e29)
+![add new item](https://github.com/Godi28/To-Do-App/assets/88197915/0d10c3cf-7a98-4884-816f-3379725d7938)
+
 
 1. To add a To Do item fill in the input and click the button.
 
-![delete item ](https://github.com/Godi28/test/assets/88197915/75bc89a6-dae4-49c9-b944-062535544382)
+
+![delete item ](https://github.com/Godi28/To-Do-App/assets/88197915/297e6d00-ce39-4a98-8326-558c5cbb5294)
 
 
 2. To delete an item already on the list fill in the input with its name and click the button.
 
-![update item](https://github.com/Godi28/test/assets/88197915/70020004-3feb-4ec1-ace4-77bd20407b15)
+
+![update item](https://github.com/Godi28/To-Do-App/assets/88197915/f2500a31-5d13-4f1a-b5c1-984d70649a32)
 
 
 3. To update an item fill the first input with its name and the second input with the one you want to update to and click the button.
 
-![add link](https://github.com/Godi28/test/assets/88197915/6bbacf16-ed78-4e3e-871b-70604ac2c70f)
+
+![add link](https://github.com/Godi28/To-Do-App/assets/88197915/ec98f16a-ea03-4dd7-991b-fe3d8d81fcb4)
 
 
 4. To add a link fill in the input and click the button.(Remember to include the protocol so it is responsive i.e.(https//: or http//:). 
 
-![delete link](https://github.com/Godi28/test/assets/88197915/cc1a302b-3558-4dc7-ad13-b50cc8c4a1f3)
+
+![delete link](https://github.com/Godi28/To-Do-App/assets/88197915/dbc25923-61cd-482b-b8ef-6aa037d48488)
 
 
 5. To delete a link fill in the input and click the button
 
-![update link](https://github.com/Godi28/test/assets/88197915/86776f1d-fb17-4183-b23c-d6569786ca5b)
+
+![update link](https://github.com/Godi28/To-Do-App/assets/88197915/92917f1f-1fb8-4224-a108-2f452e8735aa)
 
 
 6. To update the a link fill in the first input with the link you want to update and the second input with the link you want to update to and click the buttom.
 
 
-![read](https://github.com/Godi28/test/assets/88197915/542697c9-9472-40c4-8ff8-c55b18b986c8)
+![read](https://github.com/Godi28/To-Do-App/assets/88197915/8e95073d-2cad-4164-bd79-d2be7c5c81d2)
+
 
 7. To view your To Do list at any time press this button.
 
-![checked](https://github.com/Godi28/test/assets/88197915/8b27fc82-2f08-4f12-9cd5-3e2edcd6cbd4)
+
+![checked](https://github.com/Godi28/To-Do-App/assets/88197915/3c8374de-c505-48e6-983c-43bc4b2abaac)
 
 
 8. To mark a To Do item as done click the checkbox.
