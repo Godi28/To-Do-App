@@ -1,0 +1,56 @@
+$border-colour: rgb(234, 11, 167);
+$margin-left: 7px;
+$table: 2px solid;
+
+body {
+  background-image: url("../images/Screenshot\ 2023-11-08\ 122926.png");
+  border-style: inset;
+  border: 7x;
+  border-color: $border-colour;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-position: 50%;
+  background-size: 100%;
+}
+
+h5 {
+  margin-left: $margin-left;
+}
+
+.inp1 {
+  margin-left: $margin-left;
+}
+
+#end1 {
+  margin-bottom: $margin-left;
+}
+
+#end2 {
+  margin-bottom: $margin-left;
+}
+
+p {
+  margin-left: $margin-left;
+  font-size: larger;
+  font-weight: bold;
+}
+
+button {
+  margin-left: $margin-left;
+  background-color: $border-colour;
+  color: black;
+  font-size: medium;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table,
+th,
+td {
+  border: $table;
+  margin-left: $margin-left;
+  font-size: larger;
+  font-weight: bold;
+}
+
+h1 {
+  margin-left: $margin-left;
+}
